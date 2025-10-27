@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Oct 2025 09:34:27 at https://geometry-lite.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://geometry-lite.io/ -O1 "C:\My Web Sites\gd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:38:44	Warning: 	Moved Permanently for geometry-lite.io/robots.txt
+09:38:44	Warning: 	Redirected link is identical because of 'URL Hack' option: geometry-lite.io/robots.txt and https://geometry-lite.io/robots.txt
+09:38:44	Warning: 	Warning moved treated for geometry-lite.io/robots.txt (real one is https://geometry-lite.io/robots.txt)
+09:38:44	Warning: 	Moved Permanently for geometry-lite.io/themes/geometry-lite.io_v2/
+09:38:44	Warning: 	Redirected link is identical because of 'URL Hack' option: geometry-lite.io/themes/geometry-lite.io_v2/ and https://geometry-lite.io/themes/geometry-lite.io_v2/
+09:38:44	Warning: 	File has moved from geometry-lite.io/themes/geometry-lite.io_v2/ to https://geometry-lite.io/themes/geometry-lite.io_v2/
+09:38:49	Error: 	Exit requested by shell or user
+09:39:13	Error: 	"Bad Request" (400) at link https://geometry-lite.io/comment-paging-v2.ajax (from https://geometry-lite.io/)
